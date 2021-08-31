@@ -24,7 +24,7 @@ export default function Footer() {
              <a href="https://www.instagram.com/ubada_batken/?utm_medium=copy_link"><InstagramOutlined className={Css.icons} /></a> 
              <a href="https://www.facebook.com/profile.php?id=100070442649426"> <FacebookOutlined className={Css.icons} /></a>  
               <a href="/"> <WhatsAppOutlined className={Css.icons} /></a> 
-              <a  href="https://youtube.com/channel/UC1iItoJ5C_OPiTI4RwHgHaw"> <YoutubeOutlined className={Css.icons} /></a> 
+              <a  href="https://www.youtube.com/channel/UCxvaBoGa2xBsecMojC5PbRQ"> <YoutubeOutlined className={Css.icons} /></a> 
             </div>
           </div>
         </div>
