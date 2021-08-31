@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ubada-Batken/static/css/main.524cdd90.chunk.css",
+    "main.js": "/Ubada-Batken/static/js/main.7fef068d.chunk.js",
+    "main.js.map": "/Ubada-Batken/static/js/main.7fef068d.chunk.js.map",
+    "runtime-main.js": "/Ubada-Batken/static/js/runtime-main.262e3fff.js",
+    "runtime-main.js.map": "/Ubada-Batken/static/js/runtime-main.262e3fff.js.map",
+    "static/js/2.dba54d43.chunk.js": "/Ubada-Batken/static/js/2.dba54d43.chunk.js",
+    "static/js/2.dba54d43.chunk.js.map": "/Ubada-Batken/static/js/2.dba54d43.chunk.js.map",
+    "index.html": "/Ubada-Batken/index.html",
+    "static/css/main.524cdd90.chunk.css.map": "/Ubada-Batken/static/css/main.524cdd90.chunk.css.map",
+    "static/js/2.dba54d43.chunk.js.LICENSE.txt": "/Ubada-Batken/static/js/2.dba54d43.chunk.js.LICENSE.txt",
+    "static/media/a.5d3740d6.png": "/Ubada-Batken/static/media/a.5d3740d6.png",
+    "static/media/newlogo1.304d3a86.png": "/Ubada-Batken/static/media/newlogo1.304d3a86.png",
+    "static/media/promise_profile.76b24ea9.png": "/Ubada-Batken/static/media/promise_profile.76b24ea9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.262e3fff.js",
+    "static/js/2.dba54d43.chunk.js",
+    "static/css/main.524cdd90.chunk.css",
+    "static/js/main.7fef068d.chunk.js"
+  ]
+}
